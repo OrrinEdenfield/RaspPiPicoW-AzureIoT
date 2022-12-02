@@ -1,4 +1,4 @@
-# RaspPiPicoW-AzureIoT
+# Raspberry Pi Pico W and Azure IoT Hub
 
 Example MicroPython code to be added.
 
